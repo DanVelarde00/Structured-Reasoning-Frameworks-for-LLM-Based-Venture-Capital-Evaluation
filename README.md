@@ -141,7 +141,7 @@ Evaluation Protocol:
 ## Reproducibility
 
 All materials required to reproduce the study are included:
-1. Original pitch decks (PDF format)
+1. Original pitch decks (PDF format) - May need to be OCR converted 
 2. Complete knowledge stacks (VC_Stack/ and SE Resources/)
 3. Systems Engineering rubric (SE Rubric.pdf)
 4. Full evaluation results (LLM Data.xlsx)
